@@ -39,3 +39,21 @@
   font-weight: 400px;
   margin-bottom: 30px;
 }
+
+/* Media Query Design */
+@media screen and (max-width: 576px) {
+  /* Header Styles */
+
+  /* Hero Styles */
+  .hero-container {
+    padding: 50px 100px 100px;
+  }
+
+  .hero-container h3 {
+    font-size: 35px;
+  }
+
+  .hero-container p {
+    font-size: 16px;
+  }
+}
