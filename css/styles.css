@@ -116,4 +116,23 @@
     font-size: 16px;
   }
 
+  /* Main Styles */
+
+  /* Donate Pay Styles  */
+  .donate-pay h3 {
+    font-size: 30px;
+  }
+
+  .donate-pay p {
+    font-size: 14px;
+    padding: 0 20px;
+  }
+
+  .donate-pay-cards {
+    flex-direction: column;
+  }
+
+  .donate-pay input {
+    margin-bottom: 20px;
+  }
 }
